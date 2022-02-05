@@ -41,7 +41,7 @@ Topic Selection & Pitch Prep – Due Week 3, Session 1
 
 ### Preparing Your Pitch
 
-*   Prepare an image you can sketch on a 3'x3' piece of blackboard in <3 minutes (think back of envelope / cocktail napkin) and a pitch you can deliver based on the blackboard image. Your audience is your classmates and instructors. Your purpose is to make them understand the project you are planning enough that they can provide you with useful feedback.
+*   Prepare an image you can sketch on a 3'x3' piece of blackboard in \<3 minutes (think back of envelope / cocktail napkin) and a pitch you can deliver based on the blackboard image. Your audience is your classmates and instructors. Your purpose is to make them understand the project you are planning enough that they can provide you with useful feedback.
 *   Be blunt about the feedback that you desire most. Be prepared **Not** to be defensive when confronted with feedback.
 *   Plan on (fewer than) 10 minutes total for your pitch and the response; this time does not include the time to draw on the blackboard (~3 minutes). Leave at least half of the 10 minutes for feedback and discussion.
 
@@ -87,7 +87,7 @@ Your audience is the instructors, other members of ES.333, and your "GIR expert.
 *   Describe your intended video, including: audience, purpose, message, story, title, topic, duration, structure, major sections, impact, novelty, challenges…
 *   Situate the video in the framework(s) suggested by the week 1 reading _(Using Video to Tie Engineering Themes to Foundational Concepts & Designing Digital Video for Learning and Assessment)_ and / or the in-class discussion of awesome video.
 *   Identify potential "stories" that might "sustain" the video' outline the action, character, motivation, and theme of these stories. Who will be the "narrator" of these stories, and what relationship will this narrator have with the viewer?
-*   Identify the resources you will need for the project to succeed. From the ES.333 point of view, the budget must be $0, the video duration <10 minutes (5–7 minutes is a good target), and the work must be accomplished in the next 12 weeks.
+*   Identify the resources you will need for the project to succeed. From the ES.333 point of view, the budget must be $0, the video duration \<10 minutes (5–7 minutes is a good target), and the work must be accomplished in the next 12 weeks.
 *   Explain why you think you will succeed.
 *   Define your success criteria.
 *   Throughout, build credibility; show the value / impact of this project, to you and to "society."
