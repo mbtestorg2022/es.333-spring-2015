@@ -4,22 +4,546 @@ title: Calendar
 uid: fa21b3bb-676c-bfff-39c2-34691080cfd7
 ---
 
-| WEEK # | CURRICULUM FOCUS | IN-CLASS ACTIVITIES | Major video project components underway |
-| --- | --- | --- | --- |
-| Semester project video | hairy arm video | Lie video | Life-stream video |
-| --- | --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} *   Introductions {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   My Name is Inigo Montoya...{{< br >}}*   Overview lecture / activity {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Topic selection & critical analysis of video {{< br >}}{{< br >}}  | &nbsp; | Curate & script |
-| 2 |  {{< br >}}{{< br >}} *   Technique{{< br >}}*   Vision {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Ed-vid analysis discussion{{< br >}}*   Life-stream FCP session{{< br >}}*   Life-stream review{{< br >}}*   Ethical source use{{< br >}}*   Introduce Hairy Arm video {{< br >}}{{< br >}}  | Educational literature review | &nbsp; | Produce & present |
-| 3 |  {{< br >}}{{< br >}} *   Project Pitches {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Chalk image{{< br >}}*   Oral presentations{{< br >}}*   Verbal response{{< br >}}*   Written response{{< br >}}*   Meet with instructors {{< br >}}{{< br >}}  | Propose project & teaching in the wild | Conceive & script | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} *   Focus{{< br >}}*   Punch {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Meet with instructors{{< br >}}*   Introduce Lie video; punch{{< br >}}*   Mini Hairy Arm video in class{{< br >}}*   Script review {{< br >}}{{< br >}}  | Propose project & script | Script | Conceive | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} *   Technique{{< br >}}*   Script {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Silent review of Hairy Arm {{< br >}}{{< br >}}  | Curate & script | Shoot, produce, & revise | Script | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} *   Curate{{< br >}}*   Plan {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   FCP details{{< br >}}*   Hats and the crew{{< br >}}*   Hairy Arm video review{{< br >}}*   Planning reflection {{< br >}}{{< br >}}  | Curate, plan, & script | Present | Script | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} *   Review{{< br >}}*   Revision {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Lie video script workshop {{< br >}}{{< br >}}  | Curate & script | &nbsp; | Shoot & produce | &nbsp; |
-| 8 |      Spring Break | &nbsp; | Script review | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} *   Plan{{< br >}}*   Re-Vision {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Planning & resources {{< br >}}{{< br >}}  | Execution plan | &nbsp; | Revise & perfect | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} *   Collaborate{{< br >}}*   Capture {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Independent work{{< br >}}*   John Copeland talk{{< br >}}*   Meet with instructors{{< br >}}*   Lie video review {{< br >}}{{< br >}}  | Execute, shoot, produce | &nbsp; | Present | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} *   Produce{{< br >}}*   Revise {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   _Look Around You_ viewing {{< br >}}{{< br >}}  | Execute, shoot, produce | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} *   Project review {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Video draft review (discussion & written) {{< br >}}{{< br >}}  | Audience Preview | &nbsp; |
-| 13 |  {{< br >}}{{< br >}} *   Refine{{< br >}}*   Perfect {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Polish & final touches {{< br >}}{{< br >}}  | Revise & polish | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} *   Publish {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Footnote info{{< br >}}*   Prepare for 1.5 minutes of fame at the Gala premiere {{< br >}}{{< br >}}  | Present | &nbsp; |
-| 15 |  {{< br >}}{{< br >}} *   Reflection {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Individual reflections{{< br >}}*   My Name is Inigo Montoya follow-up{{< br >}}*   Advice for next year{{< br >}}*   Panel discussion on ed-vid future {{< br >}}{{< br >}}  | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+CURRICULUM FOCUS
+{{< thclose >}}
+{{< thopen >}}
+IN-CLASS ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+Major video project components underway
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Semester project video
+{{< thclose >}}
+{{< thopen >}}
+hairy arm video
+{{< thclose >}}
+{{< thopen >}}
+Lie video
+{{< thclose >}}
+{{< thopen >}}
+Life-stream video
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Introductions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   My Name is Inigo Montoya...
+*   Overview lecture / activity
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Topic selection & critical analysis of video
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Curate & script
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Technique
+*   Vision
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Ed-vid analysis discussion
+*   Life-stream FCP session
+*   Life-stream review
+*   Ethical source use
+*   Introduce Hairy Arm video
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Educational literature review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Produce & present
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Project Pitches
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Chalk image
+*   Oral presentations
+*   Verbal response
+*   Written response
+*   Meet with instructors
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Propose project & teaching in the wild
+{{< tdclose >}}
+{{< tdopen >}}
+Conceive & script
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Focus
+*   Punch
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Meet with instructors
+*   Introduce Lie video; punch
+*   Mini Hairy Arm video in class
+*   Script review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Propose project & script
+{{< tdclose >}}
+{{< tdopen >}}
+Script
+{{< tdclose >}}
+{{< tdopen >}}
+Conceive
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Technique
+*   Script
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Silent review of Hairy Arm
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Curate & script
+{{< tdclose >}}
+{{< tdopen >}}
+Shoot, produce, & revise
+{{< tdclose >}}
+{{< tdopen >}}
+Script
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Curate
+*   Plan
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   FCP details
+*   Hats and the crew
+*   Hairy Arm video review
+*   Planning reflection
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Curate, plan, & script
+{{< tdclose >}}
+{{< tdopen >}}
+Present
+{{< tdclose >}}
+{{< tdopen >}}
+Script
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Review
+*   Revision
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Lie video script workshop
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Curate & script
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Shoot & produce
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+     Spring Break
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Script review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Plan
+*   Re-Vision
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Planning & resources
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Execution plan
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Revise & perfect
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Collaborate
+*   Capture
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Independent work
+*   John Copeland talk
+*   Meet with instructors
+*   Lie video review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Execute, shoot, produce
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Present
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Produce
+*   Revise
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   _Look Around You_ viewing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Execute, shoot, produce
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Project review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Video draft review (discussion & written)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Audience Preview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Refine
+*   Perfect
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Polish & final touches
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Revise & polish
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Publish
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Footnote info
+*   Prepare for 1.5 minutes of fame at the Gala premiere
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Present
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Reflection
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Individual reflections
+*   My Name is Inigo Montoya follow-up
+*   Advice for next year
+*   Panel discussion on ed-vid future
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
